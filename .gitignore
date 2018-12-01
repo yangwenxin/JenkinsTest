@@ -5,7 +5,6 @@ local.properties
 .DS_Store
 build/
 captures/
-/build.gradle
 app/offline
 app/online
 app/mapping.txt
